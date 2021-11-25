@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Alcantara Pereira"
+  name             : 
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.A. Economics Student @<a href='http://www.econ.puc-rio.br/'>PUC-Rio</a>"
   location         : "Belo Horizonte, Brazil"
   employer         :
   pubmed           : 
