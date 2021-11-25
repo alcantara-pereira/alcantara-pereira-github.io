@@ -82,8 +82,8 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpg"
-  bio              : "M.A. Economics Student @<a href='http://www.econ.puc-rio.br/'>PUC-Rio</a>"
-  location         : "Belo Horizonte, Brazil"
+  bio              : "M.A. Economics Student"
+  location         : "<a style='text-decoration-line: none' href='http://www.econ.puc-rio.br/'>PUC-Rio</a>, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tT53BzUAAAAJ"
