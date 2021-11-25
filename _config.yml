@@ -83,7 +83,8 @@ author:
   name             : 
   avatar           : "profile.jpg"
   bio              : "M.A. economics student"
-  location         : "PUC-Rio, Brazil"
+  university       : "PUC-Rio"
+  location         : "Belo Horizonte, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tT53BzUAAAAJ"
@@ -115,10 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links: 
-    - label: "PUC-Rio"
-      icon: "fas fa-fw university"
-      url: "https://econ.puc-rio.br/"
 
 
 # Reading Files
