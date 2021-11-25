@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andre Alcantara Pereira"
+title                    : "Andre N. Alcantara Pereira"
 title_separator          : "-"
-name                     : &name "Andre Alcantara Pereira"
+name                     : &name "Andre Nascimento Alcantara Pereira"
 description              : &description "personal description"
 url                      : https://alcantara-pereira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links: 
+    - label: "PUC-Rio"
+      icon: "fas fa-fw university"
+      url: "https://econ.puc-rio.br/"
 
 
 # Reading Files
@@ -212,12 +216,13 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      #type: publications
+      type: research
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
   # _portfolio
   - scope:
       path: ""
