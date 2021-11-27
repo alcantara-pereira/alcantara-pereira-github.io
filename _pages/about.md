@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the webpage for Andre Alcantara Pereira. 
-It is still under construction.
+I am a Brazilian M.A economics student at PUC-Rio, coming from a physics background.
+My main fields of interest are Urban, Trade, and Development economics.
+
+This webpage is still under construction.
