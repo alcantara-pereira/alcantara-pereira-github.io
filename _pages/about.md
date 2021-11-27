@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This webpage is under construction"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,4 +11,4 @@ redirect_from:
 I am a Brazilian M.A economics student at PUC-Rio, coming from a physics background.
 My main fields of interest are Urban, Trade, and Development economics.
 
-This webpage is still under construction.
+This is my academic webpage, and it is still under construction.
