@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV (here)[/files/paper1.pdf], or visualize it below
+You can download my CV [here](/files/paper1.pdf), or visualize it below if you browser supports it.
 
-<iframe src="/files/paper1.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<iframe src="/files/paper1.pdf" style="width: 100%;height: 63em;border: none;"></iframe>
 
 <!--
 Education
