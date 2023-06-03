@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andre N. Alcantara Pereira"
+title                    : "Andre Alcantara"
 title_separator          : "-"
-name                     : &name "Andre Nascimento Alcantara Pereira"
+name                     : &name "Andre Alcantara"
 description              : &description "personal description"
 url                      : https://andre-al.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre N.<br/>Alcantara Pereira"
+  name             : "Andre Alcantara"
   avatar           : "profile.jpg"
-  bio              : "M.A. economics student"
-  university       : "PUC-Rio"
-  location         : "Belo Horizonte, Brazil"
+  bio              : "Ph.D. student in Economics"
+  university       : "Princeton"
+  location         : #"Belo Horizonte, Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tT53BzUAAAAJ"
