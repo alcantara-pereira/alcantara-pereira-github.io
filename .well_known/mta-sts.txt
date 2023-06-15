@@ -1,5 +1,0 @@
-version: STSv1
-mode: testing
-mx: mx1.netim.net
-mx: mx2.netim.net
-max_age: 86400
