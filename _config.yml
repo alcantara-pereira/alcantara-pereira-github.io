@@ -123,6 +123,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - .well_known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
