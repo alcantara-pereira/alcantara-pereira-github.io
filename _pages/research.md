@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+Older publications
+====
+
+{% for post in site.research_older reversed %}
   {% include archive-single.html %}
 {% endfor %}
