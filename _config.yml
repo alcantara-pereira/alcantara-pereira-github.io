@@ -249,6 +249,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _redirects
+  - scope:
+      path: ""
+      type: redirects
+    values:
+      layout: redirects
 
 # Sass/SCSS
 sass:
