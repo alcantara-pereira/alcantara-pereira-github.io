@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 Older publications
-====
+----
 
 {% for post in site.research_old reversed %}
   {% include archive-single.html %}

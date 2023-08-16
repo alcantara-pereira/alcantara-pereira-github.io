@@ -16,7 +16,7 @@ You can download my CV [here](/files/CV_web.pdf){:target="_blank"}, or visualize
 -->
 
 Education
-=====
+----
 * PhD student in Economics, Princeton University, since 2022
 * M.A. Economics, PUC-Rio, 2022
 * M.Sc. Physics, University of Waterloo (Perimeter Institute) and UNESP (Instituto de Física Teórica), 2020
