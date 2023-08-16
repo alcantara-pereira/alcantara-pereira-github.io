@@ -1,6 +1,6 @@
 ---
 title: "Quantum corrections to finite radius holography and holographic entanglement entropy"
-collection: research
+collection: research_old
 permalink: /research/2020-05-04-quantum-finite-radius-holography
 date: 2020-05-04
 venue: 'Journal of High Energy Physics'
