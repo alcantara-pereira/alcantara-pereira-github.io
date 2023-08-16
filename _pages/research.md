@@ -14,6 +14,6 @@ author_profile: true
 Older publications
 ====
 
-{% for post in site.research_older reversed %}
+{% for post in site.research_old reversed %}
   {% include archive-single.html %}
 {% endfor %}

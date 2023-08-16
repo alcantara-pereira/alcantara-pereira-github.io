@@ -179,6 +179,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  research_old:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
