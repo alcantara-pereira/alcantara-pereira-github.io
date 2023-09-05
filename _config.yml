@@ -255,6 +255,7 @@ defaults:
       path: "_redirects"
     values:
       layout: redirected
+      sitemap: false
 
 # Sass/SCSS
 sass:
